@@ -1,6 +1,7 @@
-# bmiapp
+# BMI APP
 
-A new Flutter project.
+
+A simple BMI app that calculates and provides insights on body mass index for health and fitness tracking.
 
 ## Getting Started
 
